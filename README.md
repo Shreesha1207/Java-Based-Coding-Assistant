@@ -1,4 +1,4 @@
-**Java-Based Coding Assistant **
+**Java-Based Coding Assistant**
 
 Introduction
 This repository contains a command-line chatbot application developed in Java. The program integrates with the Google Gemini API to deliver intelligent, context-aware responses. This project serves as a clear and functional example of how to incorporate a sophisticated Large Language Model (LLM) into a standard, Maven-managed Java application.
